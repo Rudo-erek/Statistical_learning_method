@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 19 20:32:20 2018
 
-@author: HeLi
+@author: Rudo-erek
 """
 import math as mt
 import numpy as np
