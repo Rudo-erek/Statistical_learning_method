@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 16 11:37:08 2018
 
-@author: HeLi
+@author: Rudo-erek
 """
 
 """
